@@ -1,11 +1,7 @@
-# Hey! I'm Victor Jun 👋 
+## Hi! I'm Victor 
 
-## Rising Senior studying CS Pursuing a Career in Software Engineer. 
-
-### Experience includes (but is not limited to):
-
-- 💻 I'm currently working as a Jr Developer for Azusa Pacific University!🌱
-- 📕 I’m currently working as a Research Assistant for Sports Analytics.⚽
-- 🤝 I’m looking to learn more from people who are already in the industry.
+- 🎓 Rising Senior @Azusa Pacific University | Double Major: CS & Honors Humanities | Double Minor: Math & Data Science
+- 💻 I'm currently working as a Jr Developer Intern for Azusa Pacific University's Engineering Team.
+- 📕 I’m currently working as a Data Research Assistant for Sports Analytics.
 - 🥅 2025 Goals: Contribute more to Open Source projects & Master Leetcode.
 - ⚡ Fun facts: I am a Third Culture Kid (TCK)! Please dm me if curious :D
