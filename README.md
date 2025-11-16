@@ -1,6 +1,6 @@
 ## Hi! I'm Victor 
 
-**CS Student @Azusa Pacific University | Graduating May 2026 | Seeking New Grad SWE Roles**
+**CS Student @Azusa Pacific University | Graduating May 2026 | F1 Visa Status with OPT and CPT options still available | Seeking New Grad SWE Roles**
 
 - 🎓 Senior @Azusa Pacific University | Double Major: CS & Honors Humanities | Double Minor: Math & Data Science
 - 💻 I'm currently working as a Jr Student Software Developer Intern for Azusa Pacific University's Engineering Team.
